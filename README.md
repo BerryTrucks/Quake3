@@ -11,7 +11,9 @@ http://developer.blackberry.com/native/download/
 
 Add your Quake Maps
 -------------------
-- Copy the *.pk3 map file(s) to the resource/baseq3 directory. (Typically found from your purchased Quake3 CD (testing only) or demo/custom maps.
+1. Create an `/accounts/1000/shared/misc/quake3/baseq3` directory / subdirectory 
+2. Transfer your pak0.pk3 from the installation cd (found in /baseq3) into it. You can use the demo .pk3 found [here](https://www.mediafire.com/file/c2hd5n749ir7agp/pak0.pk3/file)
+3. Start the game
 
 Building from Momentics IDE
 ---------------------------
